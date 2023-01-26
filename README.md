@@ -11,3 +11,7 @@ Connect to studio
 View amplify project
 
 ### `amplify console`
+
+Install Amplify libraries
+
+### `npm install aws-amplify @aws-amplify/ui-react`
